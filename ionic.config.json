@@ -1,0 +1,7 @@
+{
+  "name": "realidad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
